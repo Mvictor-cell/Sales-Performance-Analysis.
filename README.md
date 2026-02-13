@@ -78,6 +78,7 @@ key Insight:
 
 ## Total Sales by Brands
 <img width="392" height="242" alt="Screenshot 2026-02-12 150930" src="https://github.com/user-attachments/assets/3f8329da-db8c-410f-a6a6-894bc3252499" />
+
 The shows that Lg brand has the highest growth, followed by the apple brand. Making them the key revenue drivers across the years.
 
 - Market Leaders: LG and Apple combined account for 18.3bn in sales, which is more than the other four brands combined (17.4bn).
@@ -87,6 +88,7 @@ The shows that Lg brand has the highest growth, followed by the apple brand. Mak
 
 ## Total Profits by brands
 <img width="367" height="242" alt="image" src="https://github.com/user-attachments/assets/310fc37c-88a0-4dee-8085-79183fb16d83" />
+
 The Total Profit charts reveals a fascinating story about efficiency and brand value. While high sales often suggest market dominance, the profit data shows who is actually making the most profits per unit sold.  
 The chart shows the total profit made by each brand;
 Apple: 5.5M  
@@ -114,20 +116,39 @@ Key Insights from the Chart
 ## Monthly Revenue Trend (2018 - 2021)
 <img width="392" height="242" alt="image" src="https://github.com/user-attachments/assets/ac3991da-c7d9-4d7c-be57-ce08edaa37a0" />
 
-key Insights: The line graph shows the following 
+key Insights: The line Chart shows the following 
 - The year 2021 is the highest-performing year by a substantial margin.  
 - There is a consistent upward trend starting in September and peaking in December across all four years.  
 - Most years experience a slight decline in sales during the May–July period before the late year ramp up begins.
 - 2018 vs. 2019: Sales in 2019 started stronger than 2018 and maintained a steady lead throughout the year.
 
 
+<img width="372" height="221" alt="image" src="https://github.com/user-attachments/assets/f16dbaf6-6f26-4a8f-8e52-0978bdba39d4" />
+
+The table shows a high level view of brand efficiency by comparing total revenue to actual profit, with;
+- Hauwei: 61% profit margin, despite selling nearly $4.5bn less than LG, it manages to convert a significantly higher percentage of its revenue into profit.
+- Apple: generated the highest total profit at $5.5M with a 38% margin, it effectively balances high sales volume with strong profitability.
+- LG: The revenue powerhouse, leading the table with nearly $9.6bn in total sales. However, this scale comes at a cost of efficiency. Its profit margin is 31%, which is below the group total of 36%.
+- Samsung & Motorola: The least efficient brands, Samsung 28% and Motorola 29%
+Collectively, the brands generated $35.6bn in sales with an average profit margin of 36%.
 
 
+# Recommendations  
+Based on my comprehensive analysis of all the charts provided, here are five, actionable business recommendations:
+1.	Prioritize high margin products over high volume ones. Selling less at a higher profit is more sustainable than maintaining massive infrastructure for low margin returns.
+2.	Allocate the bulk of your marketing and advertising budget to Q4 to ride the December wave.
+3.	Increase focus on high-margin products (like Apple).
+4.	Samsung portfolio, focus on cost cutting and supply chain optimization. 
+5.	Redirect resources toward the high-performing El Salvador/Colombia corridor.
 
+# Dashboard
+<img width="1157" height="631" alt="image" src="https://github.com/user-attachments/assets/7199cbb1-4039-48bd-ae1e-2c27e36aadb4" />
 
+# Conclusion
+This dashboard provides a clear and interactive visualization of how business performance evolved from 2018 to 2021. It empowers decision makers to identify profitable countries, track sales growth, and plan future strategies based on data-driven insights.
 
-
-
+Connect with Me  
+Musa Victor 📧 musavcitor970@gmail.com 💼 Musa Victor
 
 
 
